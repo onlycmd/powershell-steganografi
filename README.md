@@ -104,12 +104,7 @@ Katkılarınızı bekliyoruz! Lütfen:
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
 
-## 🙏 Teşekkürler
-
-- LSB steganografi algoritması için bilimsel topluma
-- PowerShell binary manipulation desteği için Microsoft'a
-- Test ve geri bildirimler için topluluğa
-
 ---
+
 
 **Not:** Bu araç eğitim amaçlıdır. Gizlilik ve güvenlik için profesyonel çözümler kullanın. 
